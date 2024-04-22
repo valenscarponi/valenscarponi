@@ -1,8 +1,4 @@
-![Aditya Vikram Singh Banner](https://www.canva.com/design/DAGDJw62vAc/joKPP_iKhbMvhOElkUkA9Q/edit?utm_content=DAGDJw62vAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Valentino Scarponi</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h2>Hey there! I'm Valentino Scarponi</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
