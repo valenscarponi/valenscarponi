@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Valentino Scarponi</h2>
+<h2>Hey there! I'm Valentino Scarponi! 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
