@@ -1,17 +1,17 @@
-<h2>Hey there! I'm Valentino Scarponi! 👋</h2>
+<h2>¡Hola! ¡Soy Valentino Scarponi! 👋</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mí
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Development at the Instituto de Educación Superior Nº 48 "Gral. José de San Martín".\
-🌱 &nbsp;I'm on track for learning more about Javascript, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design or Making Web Pages.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at valentinoscarponi1@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
+🎓 &nbsp;Actualmente estoy estudiando Desarrollo de Software en el Instituto de Educación Superior Nº 48 "Gral. José de San Martín".\
+🌱 &nbsp;Estoy en camino de aprender más sobre Javascript, Diseño de Sistemas y Arquitectura en la Nube.\
+✍️ &nbsp;En mi tiempo libre, me dedico al Diseño Gráfico o a Crear Páginas Web.\
+💬 &nbsp;No dudes en contactarme para consultoría y voluntariado pro bono, o simplemente para tener una conversación interesante.\
+✉️ &nbsp;¡Puedes enviarme un correo a valentinoscarponi1@gmail.com! Intentaré responder lo antes posible.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tecnologías
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,9 +26,10 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conéctate Conmigo
 
 <p align="center">
 <a href="https://twitter.com/valenscarponi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valenscarponi" height="30" width="40" /></a>
 <a href="https://instagram.com/valenscarponi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valenscarponi" height="30" width="40" /></a>
 </p>
+
