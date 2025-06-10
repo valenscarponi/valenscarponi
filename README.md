@@ -1,4 +1,4 @@
-<h2>Hello!I'm Valentino Scarponi! 👋</h2>
+<h2>Hello! I'm Valentino Scarponi! 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
