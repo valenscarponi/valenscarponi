@@ -8,6 +8,6 @@ Passionate about turning data into insights, I focus on supervised learning, dat
 
 Let’s connect and build the future with data-driven innovation!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 
